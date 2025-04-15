@@ -1,6 +1,16 @@
-# Resource Toggle
+# ResourceToggle
 
-A lightweight, client-side Minecraft mod that lets you instantly switch resource packs with a simple keypress - no more digging through Minecraft's settings menu!
+![ResourceToggle Logo](https://media.forgecdn.net/attachments/description/1242864/description_45a253c3-df58-4832-8324-4932d3c61ab3.png)
+
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1242864?style=for-the-badge&logo=curseforge&color=orange)](https://www.curseforge.com/minecraft/mc-mods/resourcetoggle)
+[![CurseForge Version](https://img.shields.io/curseforge/v/1242864?style=for-the-badge&logo=curseforge&color=blue)](https://www.curseforge.com/minecraft/mc-mods/resourcetoggle/files/latest)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-green?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
+[![Forge Version](https://img.shields.io/badge/Forge-Latest-red?style=for-the-badge)](https://files.minecraftforge.net/)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-lightgrey?style=for-the-badge)](https://github.com/Milhae77/ResourceToggle)
+
+## Overview
+
+Resource Toggle is a lightweight, client-side mod that lets you instantly switch resource packs with a simple keypress - no more digging through Minecraft's settings menu!
 
 ## Features
 
@@ -25,7 +35,7 @@ A lightweight, client-side Minecraft mod that lets you instantly switch resource
 
 ## Support
 
-Having issues or questions? Open an issue on GitHub or contact the developer directly.
+Having issues or questions? Open an issue on [GitHub](https://github.com/awiones/ResourceToggle) or contact the developer directly.
 
 ## Credits & License
 
